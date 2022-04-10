@@ -58,3 +58,6 @@ Maintenant que vous êtes aguérris aux Components de React, au JSX, au state, p
 3. **Enfin, faites en sorte que lorsque l'utilisateur clique sur les deux boutons, ça augmente les valeurs des states correspondants et que l'affichage se mette à jour !**
 
 	> _**NB :** Pour détecter le clic sur les boutons, la technique est d'ajouter des attributs `onClick` : https://reactjs.org/docs/handling-events.html_
+
+
+[Pour accéder au TP suivant, cliquer ici](https://github.com/GuillaumeCar/react-tp4)
